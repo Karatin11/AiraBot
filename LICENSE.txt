@@ -1,0 +1,12 @@
+Copyright (c) 2025 Shakhruz Sharipov
+
+All rights reserved.
+
+This software and its source code are NOT open-source and may NOT be copied, used, modified, distributed, sublicensed, or published without explicit written permission from the author.
+
+Unauthorized use of any part of this codebase, including modification or reuse, is strictly prohibited and may result in legal consequences.
+
+For inquiries, contact the author:
+
+Telegram: @DeathTouchInto
+Email: shahruzsharipov11@gmail.com
