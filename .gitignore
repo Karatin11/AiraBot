@@ -141,7 +141,6 @@ cython_debug/
 .idea
 
 tmp/
-media/
 staticfiles/
 
 .DS_Store
